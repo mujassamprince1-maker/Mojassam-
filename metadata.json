@@ -1,0 +1,6 @@
+{
+  "name": "Privora",
+  "description": "Secure Real-time Premium Chat Messenger with Biometric Lock and AI Smart Replies",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
